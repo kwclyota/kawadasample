@@ -16,6 +16,8 @@ import android.widget.TextView;
 
 public class Pedometer2Activity extends Activity {
 
+	/* GitHubにてダウンロードしたものにコメントつけた*/
+
     /**
      * 歩数を表示するテキストビュー
      */
